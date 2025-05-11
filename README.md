@@ -29,16 +29,13 @@ I'm a passionate web developer specializing in modern JavaScript technologies. I
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ifyyn&show_icons=true&theme=radical)](https://github.com/ifyyn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifyyn&layout=compact&theme=radical)](https://github.com/ifyyn)
 
-## 🌱 Currently Learning
-[Add any new technologies you're currently exploring]
+## 🌱 Currently Learning  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 
-## 💼 Featured Projects
 
-### 1. [Project Name]
-Brief description • [Live Demo](link) • [Source Code](link)
-
-### 2. [Project Name]
-Brief description • [Live Demo](link) • [Source Code](link)
 
 ## 🤝 Let's Connect
 
